@@ -1,0 +1,16 @@
+*.log
+*.log.*
+*.bak
+*.py[co]
+*.TODO
+tz.md
+build/
+src/
+*.egg-info
+.coverage
+.idea/*
+env/*
+/logs/*
+*.sublime-project
+*.sublime-workspace
+/tags
